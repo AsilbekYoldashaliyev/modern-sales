@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: #E03131;
+width: 100vw;
+height: 100vh;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 5rem;
+    background-color: #E03131;
+}
+
+.navbar {
+    display: flex;
+    gap: 3rem;
+    padding: 3rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.text-color {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.dior {
+    width: 10rem;
+    margin: 5rem;
+}
+
+.language {
+    display: flex;
+    gap: 3rem;
+    margin: 15rem;
+}
