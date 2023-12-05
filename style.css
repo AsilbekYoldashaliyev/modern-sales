@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #e03130;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+
+}
+
+.navbar {
+  background: #ffffff;
+  width: 85%;
+  height: 4rem;
+  margin: 2rem;
+}
+
+.title-box {
+ 
+    background: #ffffff;
+  width: 85%;
+  height: 4rem;
+  margin: 2rem;
+}
